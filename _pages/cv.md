@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /assets/needs_to_update.pdf  # earlier this was /cv/
+permalink: /assets/pdf/needs_to_update.pdf  # earlier this was /cv/
 title: cv
 nav: true
 nav_order: 5
