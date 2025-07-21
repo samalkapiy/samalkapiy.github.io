@@ -26,7 +26,14 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+## Data Science and Analytics
+
 Data science and programming research professional with experience in extracting, cleaning and analyzing large data sets as well as developing computational models used in astrophysics research. Excellent track record of communicating relevant research work conducted using these techniques at multiple international conferences and reputed journal publications.
+
+## Astrophysics Research
+
+My publication list is found here: [Google Scholar](https://scholar.google.com/citations?user=85JE9EcAAAAJ&hl=en)
 
 #Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
