@@ -25,10 +25,10 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/needs_to_update.pdf";
+            window.location.href = "/assets/pdf/needs_to_update.pdf";
           },
         },{id: "post-a-post-with-plotly-js",
         
