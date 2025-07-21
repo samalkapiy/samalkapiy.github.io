@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 permalink: /assets/needs_to_update.pdf  # earlier this was /cv/
 title: cv
 nav: true
