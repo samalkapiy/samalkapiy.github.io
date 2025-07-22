@@ -8,6 +8,8 @@ nav_order: 1
 display_categories: [work, fun]
 horizontal: false
 ---
+<h3> GitHub </h3>
+Github repositories can be found here <a href="https://github.com/samalka.piy/">(github)</a>
 
 <!-- pages/projects.md -->
 <div class="projects">
