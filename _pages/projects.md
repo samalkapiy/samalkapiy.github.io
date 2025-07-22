@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 <h3> GitHub </h3>
-Github repositories can be found here <a href="https://github.com/samalka.piy/">(github)</a>
+Github repositories can be found here <a href="https://github.com/samalkapiy/">(github)</a>
 
 <!-- pages/projects.md -->
 <div class="projects">
