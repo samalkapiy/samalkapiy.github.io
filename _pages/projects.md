@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project_page
 title: Projects
 permalink: /projects/
 description: Added here are the projects I have worked on. Some are projects done to gain more experience and some projects are conducted for my research work as a grad student/assistant professor.
