@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <h3>Summary Slides</h3>
 <article class="post-content CV clearfix">
-        <embed src="assets/pdf/needs_to_update.pdf" width="75%" height="800" type="application/pdf" />
+        <embed src="Chapter1_08_25_2025.pdf" width="75%" height="800" type="application/pdf" />
 
 </article>
 
