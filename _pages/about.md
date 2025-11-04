@@ -29,15 +29,10 @@ latest_posts:
 
 ## Data Science and Analytics
 
-Data science and programming research professional with experience in extracting, cleaning and analyzing large data sets as well as developing computational models used in astrophysics research. Excellent track record of communicating relevant research work conducted using these techniques at multiple international conferences and reputed journal publications.
+Data science and programming research professional with experience in extracting, cleaning and analyzing large data sets as well as developing computational models used in astrophysics research. Excellent track record of communicating relevant research work conducted using these techniques at multiple international conferences and reputed journal publications. To get a sense of the projects I have completed outside of academia using my expertise in the field of astrophysics, take a look at my [Projects](https://samalkapiy.github.io/projects/). 
 
 ## Astrophysics Research
 
-My publication list is found here: [Google Scholar](https://scholar.google.com/citations?user=85JE9EcAAAAJ&hl=en)
-Check out my [Projects](https://samalkapiy.github.io/projects/)
+I am currently working as a visiting assistant professor at Washington College, Maryland. My research focuses on astro-particle physics, mainly neutrinos from outer space. I have made computational models to determine the flux of neutrinos reaching earth from supernova explosions and modeled the diffuse flux we would observe. My research also involves computationally calculating the neutrino production from main-squence stars and the diffuse background it makes. My full pulication list is found here:[Google Scholar](https://scholar.google.com/citations?user=85JE9EcAAAAJ&hl=en). Also, check out my projects related to my academic work at [Projects](https://samalkapiy.github.io/projects/).
+ 
 
-   #Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-  #You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-  #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
