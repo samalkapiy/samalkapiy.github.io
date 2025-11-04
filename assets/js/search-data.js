@@ -28,7 +28,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/needs_to_update.pdf";
+            window.location.href = "/assets/pdf/Samalka%20Anandagoda_v1.pdf";
           },
         },{id: "post-a-post-with-plotly-js",
         
