@@ -1,7 +1,7 @@
 ---
 layout: project_page
-title: project 1
-description: with background image
+title: IBM professional certificate project
+description: 
 img: assets/img/IBM_cover_img.jpg
 importance: 1
 category: fun
@@ -17,6 +17,7 @@ A successful landing significantly reduces launch costs since the rocket can be 
 
 </article>
 
+<h3>Jupyter notebook</h3>
 {::nomarkdown}
 {% assign jupyter_path = "assets/jupyter/jupyter-labs-spacex-data-collection-api-v2.ipynb" | relative_url %}
 {% capture notebook_exists %}{% file_exists assets/jupyter/blog.ipynb %}{% endcapture %}
