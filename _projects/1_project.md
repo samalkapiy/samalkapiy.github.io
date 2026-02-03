@@ -13,7 +13,7 @@ A successful landing significantly reduces launch costs since the rocket can be 
 
 <h3>Summary Slides</h3>
 <iframe 
-    src="assets/pdf/Chapter1_08_25_2025.pdf" 
+    src="../../assets/pdf/Chapter1_08_25_2025.pdf" 
     width="100%" 
     height="800">
 </iframe>
