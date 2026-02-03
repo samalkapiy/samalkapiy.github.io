@@ -13,7 +13,7 @@ A successful landing significantly reduces launch costs since the rocket can be 
 
 <h3>Summary Slides</h3>
 <article class="post-content CV clearfix">
-        <embed src="Chapter1_08_25_2025.pdf" width="75%" height="800" type="application/pdf" />
+        <embed src="assests/pdf/Chapter1_08_25_2025.pdf" width="75%" height="800" type="application/pdf" />
 
 </article>
 
