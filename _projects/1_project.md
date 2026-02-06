@@ -13,7 +13,6 @@ A successful landing significantly reduces launch costs since the rocket can be 
 
 <h3>Summary Slides</h3>
 
-
 <h3>Jupyter notebook</h3>
 {::nomarkdown}
 {% assign jupyter_path = "assets/jupyter/jupyter-labs-spacex-data-collection-api-v2.ipynb" | relative_url %}
