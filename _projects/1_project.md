@@ -18,19 +18,17 @@ A successful landing significantly reduces launch costs since the rocket can be 
 {% assign jupyter_path = "assets/jupyter/jupyter-labs-spacex-data-collection-api-v2.ipynb" | relative_url %}
 {% capture notebook_exists %}{% file_exists assets/jupyter/blog.ipynb %}{% endcapture %}
 {% if notebook_exists == "true" %}
-{% jupyter_notebook jupyter_path %}
+  {% jupyter_notebook jupyter_path %}
 {% else %}
 
-{% assign jupyter_path = "assets/jupyter/jupyter-labs-eda-dataviz-v2.ipynb" | relative_url %}
-{% capture notebook_exists %}{% file_exists assets/jupyter/jupyter-labs-eda-dataviz-v2.ipynb %}{% endcapture %}
-{% if notebook_exists == "true" %}
-{% jupyter_notebook jupyter_path %}
-{% else %}
-
-
-
-
-<p>Sorry, the notebook you are looking for does not exist.</p>
+  {% assign jupyter_path = "assets/jupyter/jupyter-labs-eda-dataviz-v2.ipynb" | relative_url %}
+  {% capture notebook_exists %}{% file_exists assets/jupyter/jupyter-labs-eda-dataviz-v2.ipynb %}{% endcapture %}
+  {% if notebook_exists == "true" %}
+    {% jupyter_notebook jupyter_path %}
+  {% else %}
+    <p>Sorry, the notebook you are looking for does not exist.</p>
+  {% endif %}
+  
 {% endif %}
 {:/nomarkdown}
 
