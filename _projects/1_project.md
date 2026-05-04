@@ -14,8 +14,8 @@ A successful landing significantly reduces launch costs since the rocket can be 
 <h3>Summary Slides</h3>
 <iframe 
   src="{{ 'assets/slides/Final_presentation_Samalka.pdf' | relative_url }}" 
-  width="100%" 
-  height="600px">
+  width="75%" 
+  height="400px">
 </iframe>
 
 <h3>Jupyter notebook</h3>
