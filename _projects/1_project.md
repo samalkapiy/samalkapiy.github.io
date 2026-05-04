@@ -18,7 +18,7 @@ A successful landing significantly reduces launch costs since the rocket can be 
   height="600px">
 </iframe>
 
-<h3>Jupyter notebooks</h3>
+<h3>Jupyter notebook</h3>
 {::nomarkdown}
 {% assign jupyter_path = "assets/jupyter/jupyter-labs-spacex-data-collection-api-v2.ipynb" | relative_url %}
 {% capture notebook_exists %}{% file_exists assets/jupyter/blog.ipynb %}{% endcapture %}
