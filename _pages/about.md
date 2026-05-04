@@ -34,5 +34,5 @@ Data science and programming research professional with experience in extracting
 ## Astrophysics Research
 
 I am currently working as a visiting assistant professor at Washington College, Maryland. My research focuses on astro-particle physics, mainly neutrinos from outer space. I have made computational models to determine the flux of neutrinos reaching earth from supernova explosions and modeled the diffuse flux we would observe. My research also involves computationally calculating the neutrino production from main-squence stars and the diffuse background it makes. My full pulication list is found here:[Google Scholar](https://scholar.google.com/citations?user=85JE9EcAAAAJ&hl=en). Also, check out my projects related to my academic work at [Projects](https://samalkapiy.github.io/projects/).
- check check check
+ check check 
 
