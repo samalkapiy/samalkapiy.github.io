@@ -12,6 +12,11 @@ The goal of this project was to predict whether SpaceX’s Falcon 9 first stage 
 A successful landing significantly reduces launch costs since the rocket can be reused. Understanding what affects successful landings helps estimate costs and guide competitive bidding by other launch providers.
 
 <h3>Summary Slides</h3>
+<iframe 
+  src="{{ 'assets/slides/Final_presentation_Samalka.pdf' | relative_url }}" 
+  width="100%" 
+  height="600px">
+</iframe>
 
 <h3>Jupyter notebook</h3>
 {::nomarkdown}
