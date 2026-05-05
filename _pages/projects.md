@@ -31,7 +31,7 @@ Github repositories can be found here <a href="https://github.com/samalkapiy/">(
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
+  <div class="row row-cols-1 row-cols-md-6">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
