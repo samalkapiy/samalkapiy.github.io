@@ -7,6 +7,7 @@ importance: 2
 category: fun
 related_publications: true
 ---
+This project was conducted as an applied datascience capstone project for the Profesional Data science certificate by IBM.
 
 The goal of this project was to predict whether SpaceX’s Falcon 9 first stage will land successfully after launch.
 A successful landing significantly reduces launch costs since the rocket can be reused. Understanding what affects successful landings helps estimate costs and guide competitive bidding by other launch providers.
