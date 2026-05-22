@@ -3,7 +3,7 @@ layout: project_page
 title: Credit card fraud detection with XGBoost
 description: 
 img: assets/img/credit_card_project_img.png
-importance: 2
+importance: 1
 category: fun
 related_publications: true
 ---
