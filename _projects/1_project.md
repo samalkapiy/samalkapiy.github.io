@@ -3,7 +3,7 @@ layout: project_page
 title: IBM professional certificate project
 description: 
 img: assets/img/IBM_cover_img.jpg
-importance: 1
+importance: 2
 category: fun
 related_publications: true
 ---
