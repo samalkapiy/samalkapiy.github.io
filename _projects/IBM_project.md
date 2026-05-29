@@ -2,7 +2,7 @@
 layout: project_page
 title: "SpaceX rocket launch success prediction"
 subtitle: "IBM professional certificate project"
-description: 
+description: "Model built using XGBoost (Decision Trees, Hyperparameter tuning, Cross valiation, cost estimation). IBM professional certificate project"
 img: assets/img/IBM_cover_img.jpg
 importance: 2
 category: fun
