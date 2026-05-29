@@ -1,6 +1,6 @@
 ---
 layout: project_page
-title: IBM professional certificate project
+title: SpaceX rocket launch success prediction: IBM professional certificate project
 description: 
 img: assets/img/IBM_cover_img.jpg
 importance: 2
