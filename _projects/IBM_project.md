@@ -7,6 +7,8 @@ importance: 2
 category: fun
 related_publications: true
 ---
+Classification model built using XGBoost. Tools used: API, data wrangling, EDA, feature engineering, density plots, predictive model, feature importance, confusion matrix, model evaluation (cross validation), hyperparameter tuning, cost estimation. 
+
 This project was conducted as an applied datascience capstone project for the Profesional Data science certificate by IBM.
 
 The goal of this project was to predict whether SpaceX’s Falcon 9 first stage will land successfully after launch.
