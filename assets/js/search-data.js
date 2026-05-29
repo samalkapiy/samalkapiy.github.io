@@ -411,7 +411,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-spacex-rocket-launch-success-prediction",
           title: 'SpaceX rocket launch success prediction',
-          description: "",
+          description: "Model built using XGBoost (Decision Trees, Hyperparameter tuning, Cross valiation, cost estimation). IBM professional certificate project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/IBM_project/";
             },},{id: "projects-credit-card-fraud-detection-with-xgboost",
