@@ -416,7 +416,7 @@ ninja.data = [{
               window.location.href = "/projects/IBM_project/";
             },},{id: "projects-credit-card-fraud-detection-with-xgboost",
           title: 'Credit card fraud detection with XGBoost',
-          description: "",
+          description: "model built to predict fraudulent transactions and estimate the monthly net savings. (XGBoost, ROC-AUC score, cross validation)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/credit_card_fraud/";
             },},{
