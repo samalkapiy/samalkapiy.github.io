@@ -21,48 +21,15 @@ A successful landing significantly reduces launch costs since the rocket can be 
   height="600px">
 </iframe>
 
-<!--
-<h3>Jupyter notebook</h3>
+<h2>Jupyter notebook</h2>
 {::nomarkdown}
 {% assign jupyter_path = "assets/jupyter/capstone_project.ipynb" | relative_url %}
 {% capture notebook_exists %}{% file_exists assets/jupyter/blog.ipynb %}{% endcapture %}
 {% if notebook_exists == "true" %}
   {% jupyter_notebook jupyter_path %}
 {% else %}
-   <p>Sorry, the notebook you are looking for does not exist.</p>
-{% endif %}
-{:/nomarkdown}
--->
-
-<h3>Jupyter notebook</h3>
-{::nomarkdown}
-{% assign jupyter_path = "assets/jupyter/capstone_project.ipynb" | relative_url %}
-{% capture notebook_exists %}
-{% file_exists assets/jupyter/capstone_project.ipynb %}
-{% endcapture %}
-
-{% if notebook_exists == "true" %}
-  {% jupyter_notebook jupyter_path %}
-{% else %}
-  <p>Sorry, the notebook you are looking for does not exist.</p>
-{% endif %}
-{:/nomarkdown}
-
-
-
-
-
-
-<!-- 
-  {% assign jupyter_path = "assets/jupyter/jupyter-labs-eda-dataviz-v2.ipynb" | relative_url %}
-  {% capture notebook_exists %}{% file_exists assets/jupyter/jupyter-labs-eda-dataviz-v2.ipynb %}{% endcapture %}
-  {% if notebook_exists == "true" %}
-    {% jupyter_notebook jupyter_path %}
-  {% else %}
     <p>Sorry, the notebook you are looking for does not exist.</p>
-  {% endif %}
-  
 {% endif %}
 {:/nomarkdown}
--->
+
 
