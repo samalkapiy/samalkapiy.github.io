@@ -409,16 +409,16 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-credit-card-fraud-detection-with-xgboost",
-          title: 'Credit card fraud detection with XGBoost',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-ibm-professional-certificate-project",
+          section: "News",},{id: "projects-ibm-professional-certificate-project",
           title: 'IBM professional certificate project',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/IBM_project/";
+            },},{id: "projects-credit-card-fraud-detection-with-xgboost",
+          title: 'Credit card fraud detection with XGBoost',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/credit_card_fraud/";
             },},{
         id: 'social-email',
         title: 'email',
