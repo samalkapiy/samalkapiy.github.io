@@ -7,8 +7,11 @@ importance: 1
 category: fun
 related_publications: true
 ---
-The goal of this project was to build a model that can predict whether a credit card transaction is fraudulent or not. The input dataset contains 10,000 credit card transactions with 98.49% being non-fraudulent and 1.51% being fraudulent transactions. 
-Exploratory data analysis and model building is summarized in the slides below. The full notebook used is also added below. 
+Classification model built using XGBoost (Tools: pandas, XGBoost, ROC-AUC score, cross validation, learning curves, saving estimation, density plots)
+
+The goal of this project was to build a model that can predict whether a credit card transaction is fraudulent or not. Using the predictive model, this project also estimates the total net savings by identifying the fraudulent transactions. The input dataset contains 10,000 credit card transactions with 98.49% being non-fraudulent and 1.51% being fraudulent transactions. 
+Predictive model building and exploratory data analysis is summarized in the slides below. The full notebook used is also added below. 
+
 
 <h3>Summary Slides</h3>
 <iframe 
