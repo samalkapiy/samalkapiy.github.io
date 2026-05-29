@@ -1,7 +1,7 @@
 ---
 layout: project_page
 title: Credit card fraud detection with XGBoost
-description: 
+description: "model built to predict fraudulent transactions and estimate the monthly net savings. (XGBoost, ROC-AUC score, cross validation)"
 img: assets/img/credit_card_project_img.png
 importance: 1
 category: fun
