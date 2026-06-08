@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /assets/pdf/Samalka_Anandagoda_v2.pdf  # earlier this was /cv/
+permalink: /assets/pdf/Samalka_Anandagoda_CV.pdf  # earlier this was /cv/
 title: CV
 nav: true
 nav_order: 3
