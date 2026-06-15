@@ -3,7 +3,7 @@ layout: page
 title: Telecom Customer Churn Analysis with Tableau
 description: Analysis on customer dataset using Tableau
 img:/assets/img/telco_churn_tableau.jpg
-importance: 4
+importance: 3
 category: fun
 ---
 This project is utilizing the Telecom customer churn data set from kaggle literature: https://www.kaggle.com/code/farazrahman/telco-customer-churn-logisticregression/notebook. Tableau is used to analyze the data, creating plots to show the revenue at risk and invesitgates what types of customers are likely to churn. Eg: Customers who have had tenure for morethan 12 months are less likely to churn as shown by the plots. 
