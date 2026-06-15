@@ -419,9 +419,9 @@ ninja.data = [{
           description: "model built to predict fraudulent transactions and estimate the monthly net savings. (XGBoost, ROC-AUC score, cross validation)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/credit_card_fraud/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tableau_telco_churn/";
             },},{
