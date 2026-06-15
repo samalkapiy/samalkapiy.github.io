@@ -2,7 +2,7 @@
 layout: page
 title: Telecom Customer Churn Analysis with Tableau
 description: Analysis on customer dataset using Tableau
-img:/assets/img/
+img:/assets/img/telco_churn_tableau.jpg
 importance: 4
 category: fun
 ---
