@@ -419,9 +419,9 @@ ninja.data = [{
           description: "model built to predict fraudulent transactions and estimate the monthly net savings. (XGBoost, ROC-AUC score, cross validation)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/credit_card_fraud/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-telecom-customer-churn-analysis-with-tableau",
+          title: 'Telecom Customer Churn Analysis with Tableau',
+          description: "Analysis on customer dataset using Tableau",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tableau_telco_churn/";
             },},{
