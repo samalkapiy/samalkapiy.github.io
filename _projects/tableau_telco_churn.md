@@ -15,6 +15,6 @@ The interactive tableau dashboard is available at: [Tableau public page](https:/
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Image of Tableau dahsboard visualizing the telecom customer churn data. The interactive dashboard can be found at [Tableau public page](https://public.tableau.com/app/profile/samalka.anandagoda/viz/Telco_customer_churn_project/Dashboard2).   
 </div>
 
