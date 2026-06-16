@@ -15,6 +15,8 @@ The interactive tableau dashboard is available at: [Tableau public page](https:/
     </div>
 </div>
 <div class="caption">
-    Image of Tableau dahsboard visualizing the telecom customer churn data. The interactive dashboard can be found at [Tableau public page](https://public.tableau.com/app/profile/samalka.anandagoda/viz/Telco_customer_churn_project/Dashboard2).   
+    *Tableau dashboard visualizing telecom customer churn metrics, service usage patterns, and revenue-at-risk insights. View the interactive dashboard on <a href="https://public.tableau.com/app/profile/samalka.anandagoda/viz/Telco_customer_churn_project/Dashboard2">
+        Tableau Public
+    </a>.
 </div>
 
