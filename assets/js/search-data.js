@@ -409,9 +409,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-a-b-testing-is-the-ad-campaign-successful",
+          title: 'A/B testing. Is the ad campaign successful?',
+          description: "A/B testing performed to statistically conclude whether the ad campaign is a success or not.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/A_B_testing/";
             },},{id: "projects-spacex-launch-success-prediction",
