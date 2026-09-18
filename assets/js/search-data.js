@@ -409,7 +409,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-spacex-launch-success-prediction",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/A_B_testing/";
+            },},{id: "projects-spacex-launch-success-prediction",
           title: 'SpaceX launch success prediction',
           description: "Model built using XGBoost (Decision Trees, Hyperparameter tuning, Cross validation, cost estimation). IBM professional certificate project",
           section: "Projects",handler: () => {
