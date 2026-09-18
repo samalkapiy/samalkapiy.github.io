@@ -1,6 +1,6 @@
 ---
 layout: project_page
-title: A/B testing: Is the ad campaign successful?
+title: A/B testing. Is the ad campaign successful?
 description: "A/B testing performed to statistically conclude whether the ad campaign is a success or not."
 img: assets/img/credit_card_project_img.png
 importance: 4 
