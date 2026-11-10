@@ -7,16 +7,16 @@ importance: 1
 category: work
 related_publications: true
 ---
-The following project analyses the business question of whether the conversion rate from the ad campaign is statistically significant or not. 
 
 <h2>Multi-mission Astronomical Observation Planner Demo</h2>
+
+The following video demonstrates how the user inputs for a transient, RA, DEC, observation duration, cadence translates into visibility windows from each observatory. It also shows how many samples were visible from each observatory and displays plots showing the target altitude over time along with the altitudes of the Sun and the Moon.  
 
 <video width="100%" 
        controls 
        muted 
-       autoplay 
-       loop 
        playsinline>
+    style="width: 100%; height: 85vh; object-fit: contain;">
     <source src="{{ 'assets/video/streamlit_1.webm' | relative_url }}" 
             type="video/webm">
     Your browser does not support HTML5 video.
