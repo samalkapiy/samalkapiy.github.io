@@ -16,7 +16,7 @@ The following video demonstrates how the user inputs for a transient, RA, DEC, o
        controls 
        muted 
        playsinline>
-    style="width: 100%; height: 85vh; object-fit: contain;">
+    style="width: 80%; height: 60vh; object-fit: contain;">
     <source src="{{ 'assets/video/streamlit_1.webm' | relative_url }}" 
             type="video/webm">
     Your browser does not support HTML5 video.
