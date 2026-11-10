@@ -17,7 +17,7 @@ The following project analyses the business question of whether the conversion r
        autoplay 
        loop 
        playsinline>
-    <source src="{{ '/assets/video/multi-mission-planner_cover.webm' | relative_url }}" 
+    <source src="{{ 'assets/video/multi-mission-planner_cover.webm' | relative_url }}" 
             type="video/webm">
     Your browser does not support HTML5 video.
 </video>
