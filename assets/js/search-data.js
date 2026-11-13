@@ -424,11 +424,11 @@ ninja.data = [{
           description: "model built to predict fraudulent transactions and estimate the monthly net savings. (XGBoost, ROC-AUC score, cross validation)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/credit_card_fraud/";
-            },},{id: "projects-multi-mission-astronomical-observation-planner",
-          title: 'Multi-Mission Astronomical Observation Planner',
+            },},{id: "projects-multi-observatory-astronomical-observation-planner",
+          title: 'Multi-Observatory Astronomical Observation Planner',
           description: "Web application built to get user input regarding the target and observation details and render visibility windows, observable samples and displays plots showing the altitudes of the target,Sun and Moon to better assess the observing conditions.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/multi-mission_planner/";
+              window.location.href = "/projects/multi-observatory_planner/";
             },},{id: "projects-telecom-customer-churn-analysis-with-tableau",
           title: 'Telecom Customer Churn Analysis with Tableau',
           description: "Analysis on customer dataset using Tableau",
